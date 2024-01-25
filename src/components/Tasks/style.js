@@ -4,13 +4,15 @@ export const TaskCategory = styled.p`
   background-color: #f3aa4e;
   border: 0xp;
   border-radius: 20px;
-  height: 12px;
+  height: 17px;
   margin: 5px;
   color: #131213;
   font-size: 14px;
   font-family: 'Roboto';
   font-weight: bold;
   text-align: center;
+  padding-left: 9px;
+  padding-right: 9px;
 `
 
 export const ListItem = styled.li`
